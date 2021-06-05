@@ -1,4 +1,4 @@
-import pawx from './store/store'
+import pawx from './store'
 
 const store = pawx({
   state: {
